@@ -4,7 +4,7 @@
 https://user-images.githubusercontent.com/66519611/124422120-77700000-dd6b-11eb-82c9-3483026bcf44.mp4
 
 # INTRESTED IN THE CODE ? 
-# IF (STAR THIS REPO && (POST AN ISSUE || SEND ME A EMAIL)){    IF (TOTAL_STAR > 100){I WILL REPLY}  ELSE{ WAIT }      }
+# IF (U STAR THIS REPO && (POST AN ISSUE || SEND ME A EMAIL)){    IF (TOTAL_STAR > 100){I WILL MAIL THE CODE}  ELSE{ WAIT TILL STARS > 100}      }
 
 
  **********************************************************************************************************************************************************
